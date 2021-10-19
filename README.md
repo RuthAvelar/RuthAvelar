@@ -14,7 +14,7 @@
 <div style="display: inline_block"><br>
                      <img align="center" alt="Ruth-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
-  <img align="right" alt="ruth-pic" height="150" style="border-radius:50px;" src="h">
+  <img align="right" alt="ruth-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/03/74/4a/03744a4594efa2e51d47c326cc482ad1.gif">
 </div>
   
   ##
