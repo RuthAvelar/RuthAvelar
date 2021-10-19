@@ -1,5 +1,5 @@
 ### Olá!! eu sou a Ruth Avelar
-### Welcome to my page to Github.
+### Welcome to my page on Github.
 
 - 🌱 Student in programming language and developing systems
 - 📫 How to reach me: ruthavelar@live.com
