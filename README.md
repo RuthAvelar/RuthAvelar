@@ -4,7 +4,7 @@
 - 🌱 Student in programming language and developing systems
 - 📫 How to reach me: ruthavelar@live.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: Desempregada :( 
+
 
 <div align="center">
   <a href="https://github.com/RuthAvelar">
