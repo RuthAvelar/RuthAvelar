@@ -1,7 +1,7 @@
 ### Olá!! eu sou a Ruth Avelar
 ### Welcome to my page on Github.
 
-- 🌱 Student in programming language and developing systems
+- 🌱 Student in Computers and information technology (Focus in BackAnd, Data Analysis)
 - 📫 How to reach me: ruthavelar@live.com
 - 😄 Pronouns: She/Her
 
